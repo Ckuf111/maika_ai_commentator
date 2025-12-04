@@ -5,7 +5,7 @@ P.S. I'm far from a programmer, and I'm more than confident that this code can b
 
 ## 🚀 Demo
 
-[![Preview Screenshot](blob:https://mega.nz/7066a176-f914-4083-99d4-55e6855e7171)]([URL_OF_YOUR_YOUTUBE_VIDEO](https://youtu.be/HU0l4NKI8BE))
+[![Preview video]](https://youtu.be/HU0l4NKI8BE)
 
 
 🛠️ Installation and Setup
