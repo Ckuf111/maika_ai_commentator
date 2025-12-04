@@ -31,13 +31,13 @@ Step 2: Create and Activate a Virtual Environment
 It is highly recommended to use a virtual environment (venv) to manage dependencies cleanly.
 
 # Create the environment
-python -m venv venv
+py -m venv venv
 
 # Activate the environment (Linux/macOS)
 source venv/bin/activate
 
 # Activate the environment (Windows)
-.\venv\Scripts\activate
+\venv\Scripts\activate
 
 
 Step 3: Install Dependencies
@@ -70,4 +70,4 @@ Step 6: Run the Bot
 
 Start the main script:
 
-python maika_commentator.py
+py maika_commentator.py
