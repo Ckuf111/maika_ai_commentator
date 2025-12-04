@@ -1,0 +1,13 @@
+twitchio
+openai
+python-dotenv
+asyncio
+sounddevice
+soundfile
+numpy
+keyboard
+Pillow
+elevenlabs
+piper-tts
+PyAudio
+pygame

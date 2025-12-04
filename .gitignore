@@ -1,0 +1,17 @@
+Секреты API - НЕ ДОЛЖНЫ ПОПАСТЬ В ГИТХАБ
+
+.env
+
+Виртуальное окружение Python
+
+venv/
+pycache/
+*.pyc
+
+Логи и временные файлы
+
+*.log
+temp_maika_output.wav
+maika_memory.json # Опционально: можно загрузить пустой, но не текущий рабочий
+maika_log.txt
+maika_state.txt
